@@ -83,3 +83,35 @@ tampoco se solicita a los visitantes. No retires estas variables de Render.
 Actualización: el texto mostrado se lee directamente de la misma plantilla Word
 que se descarga. Sustituir esa plantilla cambia el texto visible para nuevas firmas.
 No cambies el contenido de la solicitud mientras recolectas firmas para ella.
+
+## Nómina autorizada y reporte de pendientes
+
+Esta versión bloquea registros de RUT que no estén en socios_habilitados.
+Incluye nomina.json con los 671 socios del Anexo 1 del PDF suministrado,
+páginas 22 a 38. Se verificaron 671 RUT únicos y sus dígitos verificadores.
+La nómina se carga automáticamente una sola vez si la tabla de habilitados
+está vacía. No requiere importación manual. Si ya importaste una nómina,
+se conserva; puedes sustituirla desde administración con clave y confirmación.
+
+En /admin entra con ADMIN_PASSWORD y abre Reporte de socios pendientes.
+Importa la nómina original XLSX o CSV con encabezados RUT y NOMBRE (o Nombre completo).
+Puede incluir Correlativo, pero no es obligatorio. RUT debe incluir dígito verificador;
+se admiten RUT con o sin puntos. Excel se lee desde la primera hoja.
+Si hay RUT inválidos o duplicados, NO se importa nada: se indican las filas.
+Para reemplazar una nómina existente también exige DELETE_PASSWORD y confirmación.
+El reemplazo conserva firmas; firmas de RUT fuera de la nueva nómina se advierten
+en el reporte y continúan disponibles en administración.
+
+La página pública sigue sin clave. Para guardar compara RUT y nombre completo
+contra la nómina. Permite diferencias de acentos, mayúsculas, comas y orden de
+nombres/apellidos; requiere las mismas palabras. Guarda el nombre de la nómina.
+Esto valida pertenencia al listado, NO identifica físicamente al firmante.
+
+Reporte privado: habilitados / registrados / pendientes, búsqueda y paginación.
+CSV descargable de pendientes, registrados o todos, con fecha de registro UTC.
+Eliminar una firma vuelve a dejar al socio como pendiente.
+Las tablas existentes de firmas se conservan al actualizar el proyecto.
+No se necesita modificar las variables de entorno ni Start Command.
+
+La nómina incluida tiene datos personales: mantén privado el repositorio de GitHub.
+El PDF fuente no se incluye en el paquete. No se modificó su texto ni nombres.

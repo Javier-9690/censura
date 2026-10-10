@@ -1,0 +1,2686 @@
+[
+  {
+    "rut": "17.814.527-4",
+    "nombre": "ACIARES MEZA, BENJAMIN ALONSO"
+  },
+  {
+    "rut": "19.013.486-5",
+    "nombre": "ACUÑA JARAMILLO, CAMILO ESTEBAN"
+  },
+  {
+    "rut": "17.111.812-3",
+    "nombre": "ACUÑA MUNDACA, LORENA SUSANA"
+  },
+  {
+    "rut": "12.174.034-6",
+    "nombre": "ADAROS DIAZ, ELIANA MIREYA"
+  },
+  {
+    "rut": "26.108.932-7",
+    "nombre": "AGUDELO RODRIGUEZ, HEIVER HANDERSON"
+  },
+  {
+    "rut": "24.519.036-0",
+    "nombre": "AGUILAR CHOQUE, CARLA PATRICIA"
+  },
+  {
+    "rut": "19.432.727-7",
+    "nombre": "AGUILERA BUGUEÑO, MARIA JOSE"
+  },
+  {
+    "rut": "17.724.579-8",
+    "nombre": "AGUILERA MORGADO, PAMELA ANDREA"
+  },
+  {
+    "rut": "23.427.784-7",
+    "nombre": "AGUILERA ORRURY, ELIZABETH"
+  },
+  {
+    "rut": "15.021.670-2",
+    "nombre": "AGUIRRE SAPIAIN, PAMELA ALEJANDRA"
+  },
+  {
+    "rut": "18.759.161-9",
+    "nombre": "AHUMADA BORDONES, ALBERTO ANTONIO DE JESUS"
+  },
+  {
+    "rut": "17.556.092-0",
+    "nombre": "AHUMADA SAAVEDRA, IGNACIO EDUARDO"
+  },
+  {
+    "rut": "12.841.382-0",
+    "nombre": "ALAMOS ALVARADO, MARIA SOLEDAD"
+  },
+  {
+    "rut": "20.040.246-4",
+    "nombre": "ALAMOS MIRANDA, JEAN PAUL"
+  },
+  {
+    "rut": "17.362.508-1",
+    "nombre": "ALCANTARA DIAZ, GISSELL ORNELLA"
+  },
+  {
+    "rut": "20.005.855-0",
+    "nombre": "ALCAYAGA BASAY, RICARDO MATIAS"
+  },
+  {
+    "rut": "21.072.405-2",
+    "nombre": "ALCAYAGA CORTES, KEYLA CONSTANZA"
+  },
+  {
+    "rut": "18.219.197-3",
+    "nombre": "ALDUNATE CORTES, IGNACIO JOSE"
+  },
+  {
+    "rut": "13.176.085-K",
+    "nombre": "ALEGRIA PASTEN, BRENDA PAOLA"
+  },
+  {
+    "rut": "13.640.288-9",
+    "nombre": "ALFARO ESPINOZA, BERTA GRACIELA"
+  },
+  {
+    "rut": "13.216.386-3",
+    "nombre": "ALFARO HERRERA, CRISTIAN ENRIQUE"
+  },
+  {
+    "rut": "13.175.278-4",
+    "nombre": "ALFARO KONG, ANDREA ALEJANDRA"
+  },
+  {
+    "rut": "18.757.332-7",
+    "nombre": "ALFARO SAAVEDRA, YORDANI ALEJANDRO"
+  },
+  {
+    "rut": "18.012.157-9",
+    "nombre": "ALFARO TORRES, CAROL PATRICIA"
+  },
+  {
+    "rut": "25.076.309-3",
+    "nombre": "ALI QUISBERT, CAROLINA CARMEN"
+  },
+  {
+    "rut": "21.455.136-5",
+    "nombre": "ALMENDARES GODOY, GUINGUEREL ALEJANDRA"
+  },
+  {
+    "rut": "13.006.750-6",
+    "nombre": "ALMONTE CORTES, SUSANA MARIBEL"
+  },
+  {
+    "rut": "19.101.646-7",
+    "nombre": "ALTAMIRANO SEPULVEDA, IRENE MARIA"
+  },
+  {
+    "rut": "12.835.149-3",
+    "nombre": "ALTINA GODOY, MARICELA DEL ROSARIO"
+  },
+  {
+    "rut": "11.382.801-3",
+    "nombre": "ALVARADO FARÍAS, OTILIA DE LOURDES"
+  },
+  {
+    "rut": "23.423.225-8",
+    "nombre": "ALVARADO PEREZ, PAULA ISIDORA"
+  },
+  {
+    "rut": "19.301.979-K",
+    "nombre": "ALVAREZ PIZARRO, CONSTANZA SOLANGE"
+  },
+  {
+    "rut": "19.712.663-9",
+    "nombre": "ALVAREZ TRUJILLO, YAHAIRA ELIZABETH"
+  },
+  {
+    "rut": "20.261.574-0",
+    "nombre": "AMADO GUTIERREZ, KARIN ALEXIS"
+  },
+  {
+    "rut": "17.074.916-2",
+    "nombre": "ANCAN PICHUN, ROBERTO ANTONIO"
+  },
+  {
+    "rut": "21.546.004-5",
+    "nombre": "ANDRADE JOFRE, SHERLIN FERNANDA"
+  },
+  {
+    "rut": "19.258.488-4",
+    "nombre": "ANGEL CASTILLO, SEBASTIAN IGNACIO"
+  },
+  {
+    "rut": "15.009.226-4",
+    "nombre": "ANJEL ORELLANA, CARLOS FRANCISCO"
+  },
+  {
+    "rut": "15.020.973-0",
+    "nombre": "ANTÚNEZ CAROCA, BRIAN MARTÍN AARON"
+  },
+  {
+    "rut": "15.573.362-4",
+    "nombre": "APAZ TAPIA, JORGE ALEJANDRO"
+  },
+  {
+    "rut": "24.401.172-1",
+    "nombre": "APAZA CHAMBI, JESSICA MILENA"
+  },
+  {
+    "rut": "14.309.653-K",
+    "nombre": "ARAMAYO TORRES, LAUREANA DEL CARMEN"
+  },
+  {
+    "rut": "13.361.883-K",
+    "nombre": "ARANCIBIA CARTAGENA, PATRICIA ALEJANDRA"
+  },
+  {
+    "rut": "15.025.791-3",
+    "nombre": "ARANCIBIA CORTES, TERESA FRANCHESCA"
+  },
+  {
+    "rut": "13.419.980-6",
+    "nombre": "ARANCIBIA ESCOBAR, MAURICIO ALEJANDRO"
+  },
+  {
+    "rut": "13.219.616-8",
+    "nombre": "ARANCIBIA ESCOBAR, RICARDO IVAN"
+  },
+  {
+    "rut": "12.347.965-3",
+    "nombre": "ARANDA LOPEZ, JEANNETTE ANGELICA"
+  },
+  {
+    "rut": "20.543.569-7",
+    "nombre": "ARAVENA MICHEA, SCARLETT POLET"
+  },
+  {
+    "rut": "18.758.636-4",
+    "nombre": "ARAYA ARAYA, CAMILA PATRICIA"
+  },
+  {
+    "rut": "19.678.412-8",
+    "nombre": "ARAYA ARAYA, MARIELA GRACIELA"
+  },
+  {
+    "rut": "20.308.485-4",
+    "nombre": "ARAYA ARAYA, PIA BELEN"
+  },
+  {
+    "rut": "17.781.223-4",
+    "nombre": "ARAYA AZOCAR, ELIZABETH JOANA"
+  },
+  {
+    "rut": "15.674.596-0",
+    "nombre": "ARAYA CAMPUSANO, ALEX"
+  },
+  {
+    "rut": "16.325.187-6",
+    "nombre": "ARAYA CANIBILO, JUAN CARLOS"
+  },
+  {
+    "rut": "18.012.112-9",
+    "nombre": "ARAYA CERDA, DANIEL ALEXIS"
+  },
+  {
+    "rut": "13.178.332-9",
+    "nombre": "ARAYA CORTES, ALEX ALBERTO"
+  },
+  {
+    "rut": "19.408.295-9",
+    "nombre": "ARAYA COSSIO, MAURO ANDRE"
+  },
+  {
+    "rut": "09.041.312-0",
+    "nombre": "ARAYA HERRERA, MIREYCI VIRGINIA"
+  },
+  {
+    "rut": "18.794.099-0",
+    "nombre": "ARAYA IBARRA, MIRIAM ANDREA"
+  },
+  {
+    "rut": "19.405.811-K",
+    "nombre": "ARAYA MILLAN, JAVIER IGNACIO"
+  },
+  {
+    "rut": "11.939.971-8",
+    "nombre": "ARAYA PALACIOS, LAURA ROSA"
+  },
+  {
+    "rut": "20.547.815-9",
+    "nombre": "ARAYA SEGURA, FRANCHESCA ANTONELA"
+  },
+  {
+    "rut": "11.617.925-3",
+    "nombre": "ARAYA TALAMILLA, SANDRA ISABEL"
+  },
+  {
+    "rut": "17.113.823-K",
+    "nombre": "ARAYA VEGA, JIMMY ENRIQUE"
+  },
+  {
+    "rut": "12.815.316-0",
+    "nombre": "ARAYA YAÑEZ, MARIA YOLANDA"
+  },
+  {
+    "rut": "18.351.708-2",
+    "nombre": "ARAYA ZEPEDA, RUBEN FRANCISCO"
+  },
+  {
+    "rut": "24.053.019-8",
+    "nombre": "ARBOLEDA CORTES, MARTA TERESA"
+  },
+  {
+    "rut": "10.056.400-9",
+    "nombre": "ARDILES CEPEDA, OSCAR HERNAN"
+  },
+  {
+    "rut": "24.490.421-1",
+    "nombre": "AREVALO SULCA, JOSE RICARDO"
+  },
+  {
+    "rut": "25.612.107-7",
+    "nombre": "ARGOLLO AGUILAR, JUDITH CAROLINA"
+  },
+  {
+    "rut": "25.901.947-8",
+    "nombre": "ARISMENDI ., YEINY JOHANA"
+  },
+  {
+    "rut": "16.773.724-2",
+    "nombre": "AROSTICA ODGERS, ALFREDO IGNACIO"
+  },
+  {
+    "rut": "17.762.010-6",
+    "nombre": "AROSTICA ODGERS, MARION ALEJANDRA"
+  },
+  {
+    "rut": "25.814.931-9",
+    "nombre": "ARPI MERA, MAYRA ESTHER"
+  },
+  {
+    "rut": "15.002.000-K",
+    "nombre": "ARQUEZ MARIN, SILVIA DE LOURDES"
+  },
+  {
+    "rut": "27.238.945-4",
+    "nombre": "ARTEAGA ZEBALLOS, ROSICELA"
+  },
+  {
+    "rut": "25.507.092-4",
+    "nombre": "ARTEAGA ZEBALLOS, SICELY"
+  },
+  {
+    "rut": "20.501.823-9",
+    "nombre": "ASTUDILLO CISTERNA, CRISTIAN ANTONIO"
+  },
+  {
+    "rut": "17.149.039-1",
+    "nombre": "ASTUDILLO VALENZUELA, JOMARA ALEXANDRA"
+  },
+  {
+    "rut": "10.358.179-6",
+    "nombre": "AVENDAÑO MARIN, ROBINSON ERNESTO"
+  },
+  {
+    "rut": "21.543.580-6",
+    "nombre": "AVILA ., GLORIA DEL VALLE"
+  },
+  {
+    "rut": "21.543.612-8",
+    "nombre": "AVILA ., KAREN MICAELA"
+  },
+  {
+    "rut": "25.516.057-5",
+    "nombre": "AVILES POSIABO, ARTURO"
+  },
+  {
+    "rut": "17.590.685-1",
+    "nombre": "AVILEZ LARA, ROCIO ARLETTE"
+  },
+  {
+    "rut": "25.977.331-8",
+    "nombre": "AYALA AGUAYO, KAREN FABIOLA"
+  },
+  {
+    "rut": "15.056.003-9",
+    "nombre": "AYALA PEREZ, JUAN EVANGELO"
+  },
+  {
+    "rut": "16.468.545-4",
+    "nombre": "AYCA HUARACHI, EDER MARCELO"
+  },
+  {
+    "rut": "21.079.596-0",
+    "nombre": "BALCAZAR MANCILLA, FRANCISCA MILLARAY"
+  },
+  {
+    "rut": "10.926.047-9",
+    "nombre": "BARRA ORTIZ, LISSETT DE LOURDES"
+  },
+  {
+    "rut": "17.437.265-9",
+    "nombre": "BARRAZA BIGNANI, YERKO MILENKO"
+  },
+  {
+    "rut": "20.972.685-8",
+    "nombre": "BARRAZA CASANGA, YADIRA JANETT"
+  },
+  {
+    "rut": "21.071.711-0",
+    "nombre": "BARRAZA GODOY, YULISSA ANGELINA"
+  },
+  {
+    "rut": "20.543.432-1",
+    "nombre": "BARRAZA LOYOLA, MACARENA CONSTANZA"
+  },
+  {
+    "rut": "15.573.993-2",
+    "nombre": "BARRAZA URQUETA, CARLOS ENRIQUE"
+  },
+  {
+    "rut": "14.618.496-0",
+    "nombre": "BARRAZA URQUETA, MANUEL ALEJANDRO"
+  },
+  {
+    "rut": "27.910.471-4",
+    "nombre": "BARRERA ZULUAGA, DIANA MARCELA"
+  },
+  {
+    "rut": "25.908.771-6",
+    "nombre": "BARREZUETA LLAGUNO, LADY SHIRLEY"
+  },
+  {
+    "rut": "25.072.063-7",
+    "nombre": "BARRIGA PADILLA, MARIELA"
+  },
+  {
+    "rut": "16.753.226-8",
+    "nombre": "BASAURE HERRERA, ANDREA CRISTINA"
+  },
+  {
+    "rut": "20.274.761-2",
+    "nombre": "BAUTISTA RAMOS, VIANCA SOLEDAD"
+  },
+  {
+    "rut": "10.626.726-K",
+    "nombre": "BERRIOS GUTIERREZ, YASNA ALEJANDRA"
+  },
+  {
+    "rut": "17.580.410-2",
+    "nombre": "BLANCO CORDOVA, JOSE LUIS"
+  },
+  {
+    "rut": "21.011.853-5",
+    "nombre": "BORQUEZ CODOCEO, FRANCISCA JAVIERA"
+  },
+  {
+    "rut": "15.802.576-0",
+    "nombre": "BORQUEZ VEGA, VANESSA ARASELI"
+  },
+  {
+    "rut": "23.767.713-7",
+    "nombre": "BRAVO BOCANGEL, FIORELLA"
+  },
+  {
+    "rut": "09.068.949-5",
+    "nombre": "BRICEÑO ESPINOZA, VICTOR MANUEL"
+  },
+  {
+    "rut": "18.915.760-6",
+    "nombre": "BRICEÑO QUEZADA, MACARENA FRANCISCA"
+  },
+  {
+    "rut": "09.552.972-0",
+    "nombre": "BRIONES ARAYA, WILSON JAVIER"
+  },
+  {
+    "rut": "18.233.121-K",
+    "nombre": "BRIONES ARCE, NATHALY KAREN"
+  },
+  {
+    "rut": "17.368.036-8",
+    "nombre": "BRITO CORTES, JAVIER ALEJANDRO"
+  },
+  {
+    "rut": "16.611.982-0",
+    "nombre": "BROSIUS HERMOSILLA, PETER"
+  },
+  {
+    "rut": "24.759.118-4",
+    "nombre": "BUGUEÑO BUGUEÑO, JOSE EDUARDO"
+  },
+  {
+    "rut": "18.689.775-7",
+    "nombre": "BUGUEÑO CARVAJAL, KAMYLA STEPHANIE"
+  },
+  {
+    "rut": "17.076.018-2",
+    "nombre": "BURGOS BOCAZ, JUAN IGNACIO"
+  },
+  {
+    "rut": "23.127.297-6",
+    "nombre": "CABALLERO IRALA, WILSON GERARDO"
+  },
+  {
+    "rut": "23.813.329-7",
+    "nombre": "CABRERA FERNANDEZ, ROSALIA"
+  },
+  {
+    "rut": "13.687.619-8",
+    "nombre": "CACERES SALAS, ARIEL ROBERTO"
+  },
+  {
+    "rut": "24.073.075-8",
+    "nombre": "CAHUANA CONDORI, JENNY DORIS"
+  },
+  {
+    "rut": "20.261.561-9",
+    "nombre": "CALCINA YUCRA, AISAAC"
+  },
+  {
+    "rut": "12.221.010-3",
+    "nombre": "CALDERA PINO, GUADALUPE DEL TRANSITO"
+  },
+  {
+    "rut": "18.580.966-8",
+    "nombre": "CALDERON CHAPARRO, CAMILA ANDREA"
+  },
+  {
+    "rut": "19.496.076-K",
+    "nombre": "CALIZAYA YAMPARA, CAMILA ANDREA"
+  },
+  {
+    "rut": "18.985.415-3",
+    "nombre": "CALLEJAS ALCAYAGA, YOSSELIN ALEJANDRA"
+  },
+  {
+    "rut": "25.662.035-9",
+    "nombre": "CALZADA BALTAN, KATHERIN JOHANNA"
+  },
+  {
+    "rut": "25.470.788-0",
+    "nombre": "CAMONES CHUMBE, LIBNI PATRICIA"
+  },
+  {
+    "rut": "21.565.967-4",
+    "nombre": "CAMPUSANO LARRONDO, CONSTANZA ANTONIA"
+  },
+  {
+    "rut": "15.051.349-9",
+    "nombre": "CAMPUSANO MIRANDA, JACQUELINE ANDREA"
+  },
+  {
+    "rut": "12.838.236-4",
+    "nombre": "CAMUS BRELO, CHRISTIAN LUIS"
+  },
+  {
+    "rut": "10.713.556-1",
+    "nombre": "CANCINO CANCINO, JOHANN SKYLAB"
+  },
+  {
+    "rut": "24.570.758-4",
+    "nombre": "CANO QUINTERO, ISABEL"
+  },
+  {
+    "rut": "26.136.058-6",
+    "nombre": "CAÑIZALEZ CARDOZO, LUIS ALONSO"
+  },
+  {
+    "rut": "19.488.344-7",
+    "nombre": "CARDENAS MARTINEZ, LUIS IGNACIO"
+  },
+  {
+    "rut": "24.614.234-3",
+    "nombre": "CARDONA FLOREZ, DEYANID"
+  },
+  {
+    "rut": "24.732.191-8",
+    "nombre": "CARICARI REYNAGA, ELIZABETH FLORINDA"
+  },
+  {
+    "rut": "13.005.142-1",
+    "nombre": "CARLO MERCADO, LIZETTE DANITZA"
+  },
+  {
+    "rut": "17.015.810-5",
+    "nombre": "CARRASCO BARAHONA, CLAUDIO EDUARDO"
+  },
+  {
+    "rut": "20.281.819-6",
+    "nombre": "CARRASCO CAMPOS, JANICE GABRIELA"
+  },
+  {
+    "rut": "20.260.219-3",
+    "nombre": "CARRASCO LAZCANO, IVAN VICTOR"
+  },
+  {
+    "rut": "11.182.830-K",
+    "nombre": "CARRASCO LEAL, DEMY DEL CARMEN"
+  },
+  {
+    "rut": "23.473.086-K",
+    "nombre": "CARRERA HENAO, JESUS MARIA"
+  },
+  {
+    "rut": "18.510.445-1",
+    "nombre": "CARROZA VILLARROEL, PEDRO SEBASTIAN"
+  },
+  {
+    "rut": "16.302.966-9",
+    "nombre": "CARVAJAL ALLIER, MARIA FERNANDA"
+  },
+  {
+    "rut": "20.797.703-9",
+    "nombre": "CARVAJAL ARAYA, JAVIERA FERNANDA"
+  },
+  {
+    "rut": "13.976.431-5",
+    "nombre": "CARVAJAL CAMPUSANO, LUCIANO ALEJANDRO"
+  },
+  {
+    "rut": "19.348.433-6",
+    "nombre": "CARVAJAL CONTRERAS, FABIAN ENRIQUE"
+  },
+  {
+    "rut": "14.347.605-7",
+    "nombre": "CARVAJAL SALINAS, PATRICIO MICHEL"
+  },
+  {
+    "rut": "16.325.097-7",
+    "nombre": "CARVAJAL ZAMBRA, VICTOR MANUEL"
+  },
+  {
+    "rut": "12.805.610-6",
+    "nombre": "CASAS BEMBOW, CLAUDIO OSVALDO"
+  },
+  {
+    "rut": "25.440.356-3",
+    "nombre": "CASTAÑEDA ARIAS, DIZA YAEL"
+  },
+  {
+    "rut": "18.792.328-K",
+    "nombre": "CASTEX FLORES, ROMINA FERNANDA"
+  },
+  {
+    "rut": "19.969.958-K",
+    "nombre": "CASTILLO ARAVENA, MARCOS DARIO"
+  },
+  {
+    "rut": "13.178.429-5",
+    "nombre": "CASTILLO ARAYA, MIGUEL ALEJANDRO"
+  },
+  {
+    "rut": "11.457.198-9",
+    "nombre": "CASTILLO CACERES, ROSA GUDELIA"
+  },
+  {
+    "rut": "12.945.436-9",
+    "nombre": "CASTILLO CASTAÑEDA, LILIAM PAMELA"
+  },
+  {
+    "rut": "14.385.897-9",
+    "nombre": "CASTILLO GARCIA, RODRIGO GERMAN"
+  },
+  {
+    "rut": "20.092.475-4",
+    "nombre": "CASTILLO LEDEZMA, KATHERINNE JOSSEPE"
+  },
+  {
+    "rut": "16.051.376-4",
+    "nombre": "CASTILLO REYES, ANDREA DEL CARMEN"
+  },
+  {
+    "rut": "11.722.577-1",
+    "nombre": "CASTILLO RIVEROS, YERKA LETICIA"
+  },
+  {
+    "rut": "16.810.949-0",
+    "nombre": "CASTILLO ROJAS, CHRISTOPHER MAURICIO"
+  },
+  {
+    "rut": "25.567.402-1",
+    "nombre": "CASTILLO ZUÑIGA, MARTHA ISABEL"
+  },
+  {
+    "rut": "25.737.623-0",
+    "nombre": "CASTRILLON CALVO, ESTEFANY"
+  },
+  {
+    "rut": "18.138.231-7",
+    "nombre": "CASTRO ACUNA, SILVANA SOLEDAD"
+  },
+  {
+    "rut": "16.520.348-8",
+    "nombre": "CASTRO BRITO, LUIS EDUARDO"
+  },
+  {
+    "rut": "24.793.715-3",
+    "nombre": "CASTRO CASTILLO, ANA MELISSA"
+  },
+  {
+    "rut": "12.398.057-3",
+    "nombre": "CASTRO CASTRO, GLADYS BERNARDA"
+  },
+  {
+    "rut": "15.019.460-1",
+    "nombre": "CASTRO CHAVARRIA, CRISTHYAN LUIS"
+  },
+  {
+    "rut": "11.943.226-K",
+    "nombre": "CASTRO CIFUENTES, MARCELA MIRIAM"
+  },
+  {
+    "rut": "15.975.109-0",
+    "nombre": "CASTRO CORTES, CORALI FRANCISCA"
+  },
+  {
+    "rut": "26.395.949-3",
+    "nombre": "CASTRO PEREZ, JOSE ZACARIAS"
+  },
+  {
+    "rut": "18.340.065-7",
+    "nombre": "CASTRO ZURITA, JUAN CARLOS"
+  },
+  {
+    "rut": "16.239.404-5",
+    "nombre": "CEA ROJAS, ALEXI MAURICIO"
+  },
+  {
+    "rut": "22.504.946-7",
+    "nombre": "CERNA CHACON, MORAYMA"
+  },
+  {
+    "rut": "25.843.147-2",
+    "nombre": "CERON GOMEZ, GLORIA AMPARO"
+  },
+  {
+    "rut": "14.691.546-9",
+    "nombre": "CHAMBE ADUVIRE, GRACIELA MARISOL"
+  },
+  {
+    "rut": "18.900.497-4",
+    "nombre": "CHAMBE CONTRERAS, JOHN ELIAS"
+  },
+  {
+    "rut": "15.192.960-5",
+    "nombre": "CHAMBLAS VARGAS, JOSE ALEJANDRO"
+  },
+  {
+    "rut": "19.977.281-3",
+    "nombre": "CHARCAS GAMBARTE, BRAYAN JOHNNY"
+  },
+  {
+    "rut": "26.616.943-4",
+    "nombre": "CHARUPA TAPANACHE, JOSEFA DALCY"
+  },
+  {
+    "rut": "26.646.851-2",
+    "nombre": "CHARUPA TAPANACHE, MEIBEL ELKE"
+  },
+  {
+    "rut": "23.541.788-K",
+    "nombre": "CHICA SOTO, DANIEL FELIPE"
+  },
+  {
+    "rut": "21.216.345-7",
+    "nombre": "CHINO YAMPARA, ROSS MELIA"
+  },
+  {
+    "rut": "19.976.045-9",
+    "nombre": "CHIRINO MEJIAS, DANYELY ESTIBALIA"
+  },
+  {
+    "rut": "11.342.161-4",
+    "nombre": "CHOQUE CONDORE, LIDIA ROSA"
+  },
+  {
+    "rut": "24.348.174-0",
+    "nombre": "CHOQUE MAMANI, MARITZA"
+  },
+  {
+    "rut": "15.980.492-5",
+    "nombre": "CHOQUE MAMANI, NORA PATRICIA"
+  },
+  {
+    "rut": "25.042.949-5",
+    "nombre": "CHOQUE ONTIVEROS, EDITH LUISA"
+  },
+  {
+    "rut": "12.832.976-5",
+    "nombre": "CHOQUE YUCRA, JACQUELINE ANDREA"
+  },
+  {
+    "rut": "24.310.897-7",
+    "nombre": "CHOQUEVILCA MAMANI, MARIA"
+  },
+  {
+    "rut": "15.028.884-3",
+    "nombre": "CIFUENTES HERNANDEZ, MELISSA ANDREA"
+  },
+  {
+    "rut": "18.010.366-K",
+    "nombre": "CODOCEO CODOCEO, KAREN NICOLE"
+  },
+  {
+    "rut": "09.550.379-9",
+    "nombre": "COFRE VERA, MIGUEL ANGEL"
+  },
+  {
+    "rut": "25.271.486-3",
+    "nombre": "COLQUE ALI, LURDES MARTHA"
+  },
+  {
+    "rut": "24.217.085-7",
+    "nombre": "COLQUE MARCA, CAROLINA"
+  },
+  {
+    "rut": "18.311.469-7",
+    "nombre": "CONCHA SILVA, JOSEFA VALENTINA"
+  },
+  {
+    "rut": "17.368.666-8",
+    "nombre": "CONDORI CRUZ, CAMILO ANSELMO"
+  },
+  {
+    "rut": "20.717.771-7",
+    "nombre": "CONTRERAS CASTILLO, ANDREA CATALINA"
+  },
+  {
+    "rut": "13.219.412-2",
+    "nombre": "CONTRERAS GONZALEZ, SUSANA JACQUELINE"
+  },
+  {
+    "rut": "14.347.430-5",
+    "nombre": "CONTRERAS HUERTA, SEBASTIAN DEL CARMEN"
+  },
+  {
+    "rut": "13.005.026-3",
+    "nombre": "CONTRERAS MEDEL, ELIZABETH SOLEDAD"
+  },
+  {
+    "rut": "14.602.332-0",
+    "nombre": "CONTRERAS MENA, JOSE RAMON"
+  },
+  {
+    "rut": "21.943.295-K",
+    "nombre": "CONTRERAS RODRIGUEZ, RAFAEL JETLI"
+  },
+  {
+    "rut": "15.006.646-8",
+    "nombre": "CORDERO VILLALOBOS, PATRICIA ANDREA"
+  },
+  {
+    "rut": "17.552.840-7",
+    "nombre": "CORDOVA HIDALGO, KIMBERLY GIANNINA"
+  },
+  {
+    "rut": "22.574.896-9",
+    "nombre": "CORMILLUNI USECA, BETTY OLINDA"
+  },
+  {
+    "rut": "21.523.927-6",
+    "nombre": "CORNEJO MADRIAGA, JAVIERA CONSTANZA JULIETH"
+  },
+  {
+    "rut": "25.858.219-5",
+    "nombre": "CORONADO ESPINOZA, LIZETH"
+  },
+  {
+    "rut": "17.711.178-3",
+    "nombre": "COROSEO ARAYA, ANDREA KATHERINE"
+  },
+  {
+    "rut": "13.754.683-3",
+    "nombre": "CORREA ZEPEDA, ROBERTO KARLO MAHA"
+  },
+  {
+    "rut": "17.112.396-8",
+    "nombre": "CORTES ALBANEZ, JOHANNA ELIZABETH"
+  },
+  {
+    "rut": "17.711.509-6",
+    "nombre": "CORTES ARAYA, DIANA ISABEL"
+  },
+  {
+    "rut": "13.330.806-7",
+    "nombre": "CORTES BORQUEZ, MIRZA FABIOLA"
+  },
+  {
+    "rut": "15.595.148-6",
+    "nombre": "CORTES CARVAJAL, LUIS RAFAEL"
+  },
+  {
+    "rut": "13.742.132-1",
+    "nombre": "CORTES COLQUE, GLADIS MARGARITA"
+  },
+  {
+    "rut": "13.759.680-6",
+    "nombre": "CORTES GARCIA, EVELYN ANALIA"
+  },
+  {
+    "rut": "18.687.800-0",
+    "nombre": "CORTES GONZALEZ, CONSTANZA MACARENA"
+  },
+  {
+    "rut": "15.041.681-7",
+    "nombre": "CORTES OCHOA, FREDY FERNANDO"
+  },
+  {
+    "rut": "13.359.391-8",
+    "nombre": "CORTES PASTEN, ERICA ROSA"
+  },
+  {
+    "rut": "19.506.730-9",
+    "nombre": "CORTES TORRES, VALERIA FERNANDA"
+  },
+  {
+    "rut": "12.398.654-7",
+    "nombre": "COVARRUBIAS CASTILLO, CESAR MAURICIO"
+  },
+  {
+    "rut": "18.791.734-4",
+    "nombre": "CRUZ ANZA, TALIA NIDIA"
+  },
+  {
+    "rut": "25.309.635-7",
+    "nombre": "CRUZ ARICAPA, SANDRA MILENA"
+  },
+  {
+    "rut": "19.667.459-4",
+    "nombre": "CUELLO ARENA, GALINDA MERCEDES"
+  },
+  {
+    "rut": "10.930.348-8",
+    "nombre": "CUELLO ESPINOZA, NEVENNKA ALEXA"
+  },
+  {
+    "rut": "25.818.281-2",
+    "nombre": "DAMIAN PEREZ, LETICIA"
+  },
+  {
+    "rut": "25.762.137-5",
+    "nombre": "DAVID ALVAREZ, ELLERY RODNEY"
+  },
+  {
+    "rut": "24.307.030-9",
+    "nombre": "DAVILA HINOSTROZA, MIGUEL ANGEL"
+  },
+  {
+    "rut": "17.363.576-1",
+    "nombre": "DELGADO CORTES, LUIS ENRIQUE"
+  },
+  {
+    "rut": "19.160.849-6",
+    "nombre": "DIAZ CORTES, CAMILA ALEJANDRA"
+  },
+  {
+    "rut": "18.521.100-2",
+    "nombre": "DIAZ DIAZ, SERGIO ALEJANDRO"
+  },
+  {
+    "rut": "17.432.247-3",
+    "nombre": "DIAZ FIERRO, NATALY PRISCILLA"
+  },
+  {
+    "rut": "19.104.265-4",
+    "nombre": "DIAZ LEON, KARINA PATRICIA"
+  },
+  {
+    "rut": "12.438.596-2",
+    "nombre": "DONAIRE LUCAS, MARITZA MARICEL"
+  },
+  {
+    "rut": "13.640.292-7",
+    "nombre": "DONOSO LOO, GONZALO ANDRES"
+  },
+  {
+    "rut": "19.539.254-4",
+    "nombre": "DUARTE GODOY, JORGE EDUARDO"
+  },
+  {
+    "rut": "11.930.048-7",
+    "nombre": "DULCIEN GUERRERO, CARLA ALEJANDRA"
+  },
+  {
+    "rut": "20.167.230-9",
+    "nombre": "EGAÑA VILLALOBOS, IVONNE ALEJANDRA"
+  },
+  {
+    "rut": "17.644.416-9",
+    "nombre": "ELGUEDA BRUNA, CLAUDIO BERNARDO"
+  },
+  {
+    "rut": "15.742.787-3",
+    "nombre": "ESCUDERO FERNANDEZ, PABLO CESAR"
+  },
+  {
+    "rut": "25.670.281-9",
+    "nombre": "ESPINAL VALENCIA, SANDRA LORENA"
+  },
+  {
+    "rut": "25.278.318-0",
+    "nombre": "ESPINOSA QUIÑONES, LIDA ESMERALDA"
+  },
+  {
+    "rut": "12.939.720-9",
+    "nombre": "ESPINOZA GODOY, ALEJANDRA ELIZABETH"
+  },
+  {
+    "rut": "13.427.940-0",
+    "nombre": "ESPINOZA PEREZ, GONZALO GABRIEL"
+  },
+  {
+    "rut": "19.041.344-6",
+    "nombre": "ESQUIVEL ARAYA, AYRTON JOBANKO"
+  },
+  {
+    "rut": "18.787.820-9",
+    "nombre": "FERNANDEZ ARCOS, ESTEFANIA CAROLINA"
+  },
+  {
+    "rut": "10.136.696-0",
+    "nombre": "FERNANDEZ AZARGADO, JUDITH"
+  },
+  {
+    "rut": "24.517.945-6",
+    "nombre": "FERNANDEZ CASTRO, ELIZABETH"
+  },
+  {
+    "rut": "17.369.520-9",
+    "nombre": "FLORES CASTILLO, OSVALDO ENRIQUE"
+  },
+  {
+    "rut": "24.332.224-3",
+    "nombre": "FLORES CASTRO, DIANA"
+  },
+  {
+    "rut": "18.234.754-K",
+    "nombre": "FLORES DIAZ, LEIDITH DIANIRA"
+  },
+  {
+    "rut": "13.617.489-4",
+    "nombre": "FLORES LAGOS, PABLO ANDRES"
+  },
+  {
+    "rut": "26.941.161-9",
+    "nombre": "FLORES TORREZ, MAYLY MAGDALENA"
+  },
+  {
+    "rut": "17.079.540-7",
+    "nombre": "FREDES TAPIA, PAMELA ANDREA"
+  },
+  {
+    "rut": "24.766.315-0",
+    "nombre": "FRIAS LOPEZ, BANIA STEPHANY"
+  },
+  {
+    "rut": "13.760.018-8",
+    "nombre": "FRITIS ALLENDE, DANIELA ALEJANDRA"
+  },
+  {
+    "rut": "15.021.815-2",
+    "nombre": "FRITIS FRITIS, JOCELYN LISSETTE"
+  },
+  {
+    "rut": "16.628.281-0",
+    "nombre": "FUENTES BELLO, JUAN MANUEL"
+  },
+  {
+    "rut": "18.095.588-7",
+    "nombre": "FUENTES DIAZ, PATRICIA CONSTANZA"
+  },
+  {
+    "rut": "19.968.746-8",
+    "nombre": "FUENTES HERBORN, KATHERINE PAOLA"
+  },
+  {
+    "rut": "18.005.301-8",
+    "nombre": "FUENTES MORALES, SEBASTIAN ANDRES"
+  },
+  {
+    "rut": "10.318.638-2",
+    "nombre": "FUENTES ZUÑIGA, VILMA MARIA"
+  },
+  {
+    "rut": "11.818.637-0",
+    "nombre": "FUENZALIDA VILLALOBOS, EVELYN PAULA"
+  },
+  {
+    "rut": "19.101.667-K",
+    "nombre": "GALLARDO ALVARADO, CARLOS ANDRES"
+  },
+  {
+    "rut": "19.167.556-8",
+    "nombre": "GALLARDO CACERES, CARLA DANIELA"
+  },
+  {
+    "rut": "15.044.163-3",
+    "nombre": "GALLARDO CARVAJAL, EUGENIA CAROLINA"
+  },
+  {
+    "rut": "13.871.745-3",
+    "nombre": "GALLARDO GONZALEZ, LIZETTY"
+  },
+  {
+    "rut": "15.026.412-K",
+    "nombre": "GALLARDO MAREY, SEBASTIAN BERNARDO"
+  },
+  {
+    "rut": "19.678.279-6",
+    "nombre": "GALLEGUILLOS LOPEZ, NICOLAS EDGARGO"
+  },
+  {
+    "rut": "19.353.662-K",
+    "nombre": "GALLEGUILLOS TAPIA, SCARLETT ALEJANDRA"
+  },
+  {
+    "rut": "10.010.169-6",
+    "nombre": "GALVEZ ARAYA, PATRICIO ALFREDO"
+  },
+  {
+    "rut": "19.103.220-9",
+    "nombre": "GAMBOA JAIME, YUDIT ALEJANDRA"
+  },
+  {
+    "rut": "18.553.974-1",
+    "nombre": "GARATE CAMPOS, CAROLINA PATRICIA"
+  },
+  {
+    "rut": "17.363.174-K",
+    "nombre": "GARCIA GARCIA, MARCELA"
+  },
+  {
+    "rut": "11.375.740-K",
+    "nombre": "GARCIA LANCHINI, MARIA TERESA"
+  },
+  {
+    "rut": "18.790.006-9",
+    "nombre": "GARCIA LOBOS, CAMILA ANDREA"
+  },
+  {
+    "rut": "24.486.339-6",
+    "nombre": "GARCIA PALOMEQUE, CAROL"
+  },
+  {
+    "rut": "16.970.428-7",
+    "nombre": "GARCIA VARGAS, LOREDANNA NATALY"
+  },
+  {
+    "rut": "20.260.641-5",
+    "nombre": "GARIN GATICA, NAOMY ALEXIA"
+  },
+  {
+    "rut": "18.231.221-5",
+    "nombre": "GARRIDO GARRIDO, YARA LLANERI"
+  },
+  {
+    "rut": "24.316.609-8",
+    "nombre": "GARZON HOYOS, JUAN DAVID"
+  },
+  {
+    "rut": "15.514.002-K",
+    "nombre": "GERALDO PAREDES, CAROLINA JOHANNA"
+  },
+  {
+    "rut": "17.038.019-3",
+    "nombre": "GODOY GODOY, JUANA BERNARDA"
+  },
+  {
+    "rut": "21.072.492-3",
+    "nombre": "GODOY GUERRERO, LISSETTE VALENTINA"
+  },
+  {
+    "rut": "13.976.158-8",
+    "nombre": "GODOY VILLEGAS, RAUL ANDRES"
+  },
+  {
+    "rut": "23.868.840-K",
+    "nombre": "GOMEZ CATAÑO, MARYURI PAOLA"
+  },
+  {
+    "rut": "20.217.321-7",
+    "nombre": "GOMEZ MAMANI, LEX ALLAN"
+  },
+  {
+    "rut": "09.145.096-8",
+    "nombre": "GOMEZ SANDOVAL, RAMON DOMINGO"
+  },
+  {
+    "rut": "25.915.001-9",
+    "nombre": "GONZALES SEMINARIO, BRISAIDA DEL PILAR"
+  },
+  {
+    "rut": "11.468.423-6",
+    "nombre": "GONZALEZ ANDRADE, EDUARDO JAVIER"
+  },
+  {
+    "rut": "14.109.888-8",
+    "nombre": "GONZALEZ DE LA VEGA, HUMBERTO CARLOS"
+  },
+  {
+    "rut": "26.678.473-2",
+    "nombre": "GONZALEZ ESPINOSA, YOLANDA"
+  },
+  {
+    "rut": "17.965.788-0",
+    "nombre": "GONZALEZ LEIVA, CYNTHIA ZOE"
+  },
+  {
+    "rut": "13.864.399-9",
+    "nombre": "GONZALEZ MONDACA, LUIS ARMANDO"
+  },
+  {
+    "rut": "18.758.656-9",
+    "nombre": "GONZALEZ ROJAS, ELBA ADRIANA"
+  },
+  {
+    "rut": "15.695.561-2",
+    "nombre": "GONZALEZ TAPIA, OMAR MANUEL"
+  },
+  {
+    "rut": "20.215.094-2",
+    "nombre": "GONZALEZ TAUCARE, LESLY ANDREA"
+  },
+  {
+    "rut": "18.911.347-1",
+    "nombre": "GRONDONA CARRASCO, ESTEFANIA"
+  },
+  {
+    "rut": "12.663.437-4",
+    "nombre": "GUAJARDO AGUAYO, RODRIGO ALBERTO"
+  },
+  {
+    "rut": "18.010.394-5",
+    "nombre": "GUERRA ARAYA, CRISTOBAL ANDRES"
+  },
+  {
+    "rut": "13.534.727-2",
+    "nombre": "GUERRA CORTES, PAMELA MARISEL"
+  },
+  {
+    "rut": "19.301.722-3",
+    "nombre": "GUERRERO GUERRERO, LEONARDO ANTONIO"
+  },
+  {
+    "rut": "18.183.356-4",
+    "nombre": "GUERRERO MENDOZA, FELIPE ANDREE"
+  },
+  {
+    "rut": "18.790.678-4",
+    "nombre": "GUERRERO SEGOVIA, MEYBOL JANNINA"
+  },
+  {
+    "rut": "19.694.025-1",
+    "nombre": "GUERRERO USECHE, NATHALIA VANESSA"
+  },
+  {
+    "rut": "12.843.737-1",
+    "nombre": "GUERRERO VILLEGAS, LUIS ALBERTO"
+  },
+  {
+    "rut": "10.961.347-9",
+    "nombre": "GUEVARA ZURITA, GUILLERMO PATRICIO"
+  },
+  {
+    "rut": "27.083.994-0",
+    "nombre": "GUTIERREZ DURAN, ALEJANDRO JOSE"
+  },
+  {
+    "rut": "11.232.322-8",
+    "nombre": "GUTIERREZ REYES, JOSE LUIS"
+  },
+  {
+    "rut": "24.523.291-8",
+    "nombre": "GUZMAN BARROSO, DOLLY RAQUEL"
+  },
+  {
+    "rut": "19.617.474-5",
+    "nombre": "GUZMAN CARVAJAL, FRANCHESCA ANDREA"
+  },
+  {
+    "rut": "27.337.570-8",
+    "nombre": "GUZMAN SALVATIERRA, ANA ALEJANDRA"
+  },
+  {
+    "rut": "24.331.422-4",
+    "nombre": "HENAO BETANCOURTH, GLORIA PATRICIA"
+  },
+  {
+    "rut": "13.565.683-6",
+    "nombre": "HENRIQUEZ NUÑEZ, CLAUDIA ANDREA"
+  },
+  {
+    "rut": "17.618.368-3",
+    "nombre": "HERMOSILLA HERNANDEZ, EVELYN DAMARY"
+  },
+  {
+    "rut": "21.651.679-6",
+    "nombre": "HERNANDEZ ATENCIO, BASTIAN ANTONIO"
+  },
+  {
+    "rut": "25.631.163-1",
+    "nombre": "HERNANDEZ SALAZAR, JORGE IVAN"
+  },
+  {
+    "rut": "13.642.825-K",
+    "nombre": "HERNANDEZ SILVA, LUZ ALEJANDRA"
+  },
+  {
+    "rut": "11.516.819-3",
+    "nombre": "HERRERA HENRIQUEZ, LUZ MARIA DEL CARMEN"
+  },
+  {
+    "rut": "21.458.649-5",
+    "nombre": "HERRERA MAMANI, BRANY BERNE"
+  },
+  {
+    "rut": "21.279.353-1",
+    "nombre": "HERRERA ROJAS, KATHERINE TAMARA"
+  },
+  {
+    "rut": "19.868.533-K",
+    "nombre": "HERRERA SOLIS, FABIAN IGNACIO"
+  },
+  {
+    "rut": "26.010.661-9",
+    "nombre": "HINOJOSA JALA, ANELIS ALEIDA"
+  },
+  {
+    "rut": "19.666.855-1",
+    "nombre": "HONORES MIRANDA, LADY HELLEN"
+  },
+  {
+    "rut": "18.918.263-5",
+    "nombre": "HONORES RIVERA, VALERIA CAMILA"
+  },
+  {
+    "rut": "17.552.696-K",
+    "nombre": "HUAIGUA MAMANI, LOURDES XIMENA"
+  },
+  {
+    "rut": "23.311.672-6",
+    "nombre": "HUALLPA CHOQUE, GLADYS LUZMILA"
+  },
+  {
+    "rut": "24.244.021-8",
+    "nombre": "HUARA RODRIGUEZ DE SANABRIA, MARGARITA"
+  },
+  {
+    "rut": "22.007.673-3",
+    "nombre": "HUARACALLO ATAMARI, VILMA"
+  },
+  {
+    "rut": "13.861.706-8",
+    "nombre": "HUARACHI CHURA, VERONICA LILIANA"
+  },
+  {
+    "rut": "16.597.139-6",
+    "nombre": "HUERTA ARANCIBIA, PAUL ANDRES"
+  },
+  {
+    "rut": "13.418.252-0",
+    "nombre": "HUERTA COLLADO, CESAR ANTONIO"
+  },
+  {
+    "rut": "16.566.125-7",
+    "nombre": "HUIDOBRO PIZARRO, FARES OBED"
+  },
+  {
+    "rut": "25.202.368-2",
+    "nombre": "IBARGUEN HURTADO, MARICEL"
+  },
+  {
+    "rut": "19.883.025-9",
+    "nombre": "IBARRA CRUZ, CRISTOBAL ANDRES"
+  },
+  {
+    "rut": "12.435.559-1",
+    "nombre": "IMAÑA INQUILTUPA, NELSON ABEL"
+  },
+  {
+    "rut": "19.155.369-1",
+    "nombre": "IZQUIERDO ESQUIVEL, FRANCO MAURICIO"
+  },
+  {
+    "rut": "17.452.677-K",
+    "nombre": "JERALDO LOPEZ, GUSTAVO ADOLFO"
+  },
+  {
+    "rut": "12.096.254-K",
+    "nombre": "JERALDO ROJAS, JACQUELINE CARMEN"
+  },
+  {
+    "rut": "25.481.678-7",
+    "nombre": "JIMENEZ BERNAL, JIMMY LEANDRO"
+  },
+  {
+    "rut": "23.549.572-4",
+    "nombre": "JIMENEZ MONTESINOS, HEIDY SHARON"
+  },
+  {
+    "rut": "16.848.015-6",
+    "nombre": "JOFRE AVILEZ, FRANCO ANTONIO"
+  },
+  {
+    "rut": "12.595.902-4",
+    "nombre": "JOFRE JOFRE, MARIO ALEXIS"
+  },
+  {
+    "rut": "13.359.984-3",
+    "nombre": "JOFRE ROJAS, CLAUDIA XIMENA"
+  },
+  {
+    "rut": "16.226.207-6",
+    "nombre": "JOFRE VERGARA, JOHNNY EDGARDO"
+  },
+  {
+    "rut": "25.596.887-4",
+    "nombre": "JORDAN DIAZ, JHOANE ALEXANDRA"
+  },
+  {
+    "rut": "13.211.072-7",
+    "nombre": "JORQUERA OLIVARES, AUGUSTO PATRICIO"
+  },
+  {
+    "rut": "23.338.861-0",
+    "nombre": "KUNO BLANCO, CRISTINA"
+  },
+  {
+    "rut": "13.868.914-K",
+    "nombre": "LAMILLA VALDIVIA, FANNY JACQUELINE"
+  },
+  {
+    "rut": "20.308.615-6",
+    "nombre": "LANAS BARRAZA, HECTOR FABIAN"
+  },
+  {
+    "rut": "15.573.736-0",
+    "nombre": "LARA GALLARDO, JENNIFER FABIOLA"
+  },
+  {
+    "rut": "27.858.198-5",
+    "nombre": "LEDEZMA ESCOBAR, JOEL IVAN"
+  },
+  {
+    "rut": "11.794.888-9",
+    "nombre": "LEIVA CONEJEROS, RICARDO MAURICIO"
+  },
+  {
+    "rut": "12.601.846-0",
+    "nombre": "LEIVA GONZALEZ, PABLO ANDRES"
+  },
+  {
+    "rut": "14.100.657-6",
+    "nombre": "LEON AVALOS, FABIOLA KARINA"
+  },
+  {
+    "rut": "15.524.233-7",
+    "nombre": "LEPE URETA, ROBERTO AARON"
+  },
+  {
+    "rut": "22.535.484-7",
+    "nombre": "LIMACHI MAMANI, DAVID CESAR"
+  },
+  {
+    "rut": "20.260.957-0",
+    "nombre": "LOBOS MAGNATA, VICTOR IGNACIO"
+  },
+  {
+    "rut": "19.103.278-0",
+    "nombre": "LODY ERAZO, KEVIM ALAM"
+  },
+  {
+    "rut": "25.920.813-0",
+    "nombre": "LONDOÑO MENDOZA, NATHALIA"
+  },
+  {
+    "rut": "15.043.720-2",
+    "nombre": "LOPEZ CORTES, CECILIA ANDREA"
+  },
+  {
+    "rut": "21.001.693-7",
+    "nombre": "LOPEZ GUTIERREZ, ANGEL"
+  },
+  {
+    "rut": "23.542.195-K",
+    "nombre": "LOPEZ MORALES, LINA MARCELA"
+  },
+  {
+    "rut": "23.025.464-8",
+    "nombre": "LOPEZ RIVASPLATA, CESAR AUGUSTO"
+  },
+  {
+    "rut": "25.786.284-4",
+    "nombre": "LOPEZ RODAS, YAMILETH"
+  },
+  {
+    "rut": "20.098.946-5",
+    "nombre": "LOPEZ VERDUGO, JACQUELINE ANDREA"
+  },
+  {
+    "rut": "19.493.695-8",
+    "nombre": "LOVERA TERRAZAS, JUAN LUIS"
+  },
+  {
+    "rut": "19.969.191-0",
+    "nombre": "LOVIS CASTILLO, ITZIA DEL CARMEN"
+  },
+  {
+    "rut": "09.915.658-9",
+    "nombre": "LUMAN ESCOBAR, NADIA DEL CARMEN"
+  },
+  {
+    "rut": "20.941.404-K",
+    "nombre": "LUNA DIAZ, NICOLAS ALEJANDRO"
+  },
+  {
+    "rut": "21.924.202-6",
+    "nombre": "MACHACA MOLLO, ZULMA"
+  },
+  {
+    "rut": "20.616.325-9",
+    "nombre": "MADARIAGA ARAYA, KARIME KRIS"
+  },
+  {
+    "rut": "12.835.027-6",
+    "nombre": "MADARIAGA VERGARA, CRISTIAN ROBERTO"
+  },
+  {
+    "rut": "25.876.023-9",
+    "nombre": "MAGNO MOSQUERA, ADELAIDA"
+  },
+  {
+    "rut": "19.667.925-1",
+    "nombre": "MALUENDA GUERRERO, CRISTINA AMAPOLA"
+  },
+  {
+    "rut": "15.571.732-7",
+    "nombre": "MALUENDA LIZAMA, CAROLINA ANDREA"
+  },
+  {
+    "rut": "23.900.796-1",
+    "nombre": "MAMANI CHURA, CARMEN"
+  },
+  {
+    "rut": "24.578.395-7",
+    "nombre": "MAMANI FLORES, NELSY"
+  },
+  {
+    "rut": "19.871.372-4",
+    "nombre": "MAMANI MUNOZ, KIARA ANDREA"
+  },
+  {
+    "rut": "19.871.371-6",
+    "nombre": "MAMANI MUNOZ, KIMEY ANDREA"
+  },
+  {
+    "rut": "23.442.461-0",
+    "nombre": "MAMANI PEREZ, ROSA ISILA"
+  },
+  {
+    "rut": "10.568.063-5",
+    "nombre": "MANRIQUEZ ESCOBAR, WILLIAM ALBERTINI"
+  },
+  {
+    "rut": "21.209.777-2",
+    "nombre": "MANUELO MARTINEZ, JOSE MIGUEL"
+  },
+  {
+    "rut": "18.901.085-0",
+    "nombre": "MARIN FERNANDEZ, THANYA ELIZABETH"
+  },
+  {
+    "rut": "27.933.980-0",
+    "nombre": "MARIÑO RODRIGUEZ, ADRIANA CAROLINA"
+  },
+  {
+    "rut": "16.052.884-2",
+    "nombre": "MARTINEZ BASTIAS, FELIPE ANDRES"
+  },
+  {
+    "rut": "13.009.989-0",
+    "nombre": "MARTINEZ BONILLA, LEONARDO ALEJANDRO"
+  },
+  {
+    "rut": "19.711.245-K",
+    "nombre": "MARTINEZ CARVAJAL, JEREMY ALEJANDRO"
+  },
+  {
+    "rut": "16.135.870-3",
+    "nombre": "MARTINEZ CASTILLO, CYNTHIA ANDREA"
+  },
+  {
+    "rut": "16.489.302-2",
+    "nombre": "MARTINEZ KACIC, BARBARA GABRIELA"
+  },
+  {
+    "rut": "18.643.261-4",
+    "nombre": "MARTINEZ TRUJILLO, SEBASTIAN IGNACIO"
+  },
+  {
+    "rut": "16.595.779-2",
+    "nombre": "MARTÍNEZ VENEGAS, FIDELINA DEL CARMEN"
+  },
+  {
+    "rut": "18.237.491-1",
+    "nombre": "MARZAN KERR, CAROLIN ANDREA"
+  },
+  {
+    "rut": "15.575.501-6",
+    "nombre": "MATAMOROS ARREDONDO, EMMA JOSELINE"
+  },
+  {
+    "rut": "21.267.675-6",
+    "nombre": "MATAMOROS VENEGAS, CLAUDIA ROSA"
+  },
+  {
+    "rut": "19.103.753-7",
+    "nombre": "MATURANA JIMENEZ, MARIANA ALEJANDRA"
+  },
+  {
+    "rut": "24.109.382-4",
+    "nombre": "MAZUERA PALACIOS, SANDRA PATRICIA"
+  },
+  {
+    "rut": "27.892.874-8",
+    "nombre": "MEJIA CACERES, JENNY CELESTE"
+  },
+  {
+    "rut": "26.588.300-1",
+    "nombre": "MEJIA GUEVARA, JAVIER GREGORIO"
+  },
+  {
+    "rut": "09.399.389-6",
+    "nombre": "MELENDEZ NAVARRO, PEDRO PABLO"
+  },
+  {
+    "rut": "16.875.282-2",
+    "nombre": "MENA ASTUDILLO, DANIEL HERNAN"
+  },
+  {
+    "rut": "25.943.093-3",
+    "nombre": "MENDEZ MENDOZA, MARY NELLY"
+  },
+  {
+    "rut": "17.725.248-4",
+    "nombre": "MENESES FERRADA, PIA FERNANDA"
+  },
+  {
+    "rut": "16.720.710-3",
+    "nombre": "MERCADO PEREZ, ALBINA DEL CARMEN"
+  },
+  {
+    "rut": "18.657.607-1",
+    "nombre": "MERIÑO VALENZUELA, JONY FELIPE"
+  },
+  {
+    "rut": "18.698.124-3",
+    "nombre": "MEZA CATALAN, EVELYN BEATRIZ"
+  },
+  {
+    "rut": "17.010.989-9",
+    "nombre": "MEZA GONZALEZ, FERNANDO ANDRES"
+  },
+  {
+    "rut": "18.014.882-5",
+    "nombre": "MICHEA OLIVARES, ANDREA FERNANDA"
+  },
+  {
+    "rut": "17.362.562-6",
+    "nombre": "MICHEA VEGA, DANIZA FABIOLA"
+  },
+  {
+    "rut": "15.043.394-0",
+    "nombre": "MILLA MILLA, JESSICA ELIZABETH"
+  },
+  {
+    "rut": "18.177.969-1",
+    "nombre": "MIRANDA AGUAYO, VALENTINA ESTEFANIA"
+  },
+  {
+    "rut": "18.070.544-9",
+    "nombre": "MIRANDA QUITRAL, JUAN ESTEBAN"
+  },
+  {
+    "rut": "25.560.946-7",
+    "nombre": "MOGOLLON RODRIGUEZ, CELIA"
+  },
+  {
+    "rut": "22.502.099-K",
+    "nombre": "MOGOLLON RODRIGUEZ, ZOILA TERESA"
+  },
+  {
+    "rut": "25.552.695-2",
+    "nombre": "MOLINA CAMPUSANO, LUZ MARY"
+  },
+  {
+    "rut": "17.626.280-K",
+    "nombre": "MOLINA VERGARA, YASMARI GIBSON"
+  },
+  {
+    "rut": "17.132.919-1",
+    "nombre": "MOLLER TILLERIAS, CAROLINNE MILITZER"
+  },
+  {
+    "rut": "11.820.792-0",
+    "nombre": "MONARDEZ ESPINOZA, EDMUNDO ANTONIO"
+  },
+  {
+    "rut": "13.875.871-0",
+    "nombre": "MONTALBAN RODRIGUEZ, JULIA ANDREA"
+  },
+  {
+    "rut": "20.212.279-5",
+    "nombre": "MONTENEGRO CLAVERIA, ALEXIS WILLIAMS"
+  },
+  {
+    "rut": "19.667.124-2",
+    "nombre": "MONTENEGRO IZQUIERDO, ROSA BELEN"
+  },
+  {
+    "rut": "20.458.463-K",
+    "nombre": "MONTERO VILLALOBOS, SANDRA ISABEL"
+  },
+  {
+    "rut": "26.758.680-2",
+    "nombre": "MONTOYA MOLINA, DIANA MARCELA"
+  },
+  {
+    "rut": "25.864.654-1",
+    "nombre": "MONTOYA MOLINA, JENNIFER ANDREA"
+  },
+  {
+    "rut": "12.398.064-6",
+    "nombre": "MORALEDA PIZARRO, NELSON FERNANDO"
+  },
+  {
+    "rut": "23.962.187-2",
+    "nombre": "MORALES AROHUANCA, YAMILET ROSSANA"
+  },
+  {
+    "rut": "17.037.796-6",
+    "nombre": "MORALES DIAZ, JOSUE ELIAS"
+  },
+  {
+    "rut": "19.870.499-7",
+    "nombre": "MORALES LUZA, DAMARIS VIVIANA"
+  },
+  {
+    "rut": "25.937.107-4",
+    "nombre": "MORALES MORALES, DORIS"
+  },
+  {
+    "rut": "17.646.236-1",
+    "nombre": "MORALES TAPIA, MATIAS PATRICIO"
+  },
+  {
+    "rut": "16.917.903-4",
+    "nombre": "MORENO ROBLES, SOFIA ANDREA"
+  },
+  {
+    "rut": "18.014.835-3",
+    "nombre": "MOYA MONTIEL, MACARENA DEL CARMEN"
+  },
+  {
+    "rut": "23.798.978-3",
+    "nombre": "MOYA TERRAZAS, ROBERTO DAVID"
+  },
+  {
+    "rut": "20.327.498-K",
+    "nombre": "MUJICA BUSTAMANTE, IGNACIA KATRYNE"
+  },
+  {
+    "rut": "13.211.075-1",
+    "nombre": "MUNOZ CASTRO, CRISTIAN EDUARDO"
+  },
+  {
+    "rut": "16.769.809-3",
+    "nombre": "MUÑOZ GUILLEN, YOSSELIN MARLENE"
+  },
+  {
+    "rut": "19.395.543-6",
+    "nombre": "MUÑOZ MUÑOZ, CONSTANZA BELEN"
+  },
+  {
+    "rut": "16.259.890-2",
+    "nombre": "MUÑOZ OLATE, DOMINIQUE GERARD"
+  },
+  {
+    "rut": "21.095.018-4",
+    "nombre": "MUÑOZ ORTIZ, FRANCISCA JAVIERA"
+  },
+  {
+    "rut": "20.215.965-6",
+    "nombre": "MUÑOZ PEÑA, MARITTERE PAOLA"
+  },
+  {
+    "rut": "18.264.812-4",
+    "nombre": "MUÑOZ TORRES, JUAN CARLOS"
+  },
+  {
+    "rut": "25.597.886-1",
+    "nombre": "MURILLO RIVAS, MARTHA LUCIA"
+  },
+  {
+    "rut": "13.013.706-7",
+    "nombre": "MUSSINI HORMAZABAL, EFFREMO CONSTANTINO"
+  },
+  {
+    "rut": "12.482.515-6",
+    "nombre": "MUSSRE BERROCAL, BRAULIO RODRIGO"
+  },
+  {
+    "rut": "17.438.674-9",
+    "nombre": "NAVARRO OLIVARES, CONNY ARACELY"
+  },
+  {
+    "rut": "19.661.413-3",
+    "nombre": "NEIRA NEIRA, CONSUELO BELEN"
+  },
+  {
+    "rut": "25.459.610-8",
+    "nombre": "OCHOA CORREA, ANYELA MARIA"
+  },
+  {
+    "rut": "18.704.762-5",
+    "nombre": "OJEDA CORREA, CAROLINA JEANNETTE"
+  },
+  {
+    "rut": "11.205.319-0",
+    "nombre": "OLGUIN HERRERA, MIRIAM LUZ"
+  },
+  {
+    "rut": "19.295.920-9",
+    "nombre": "OLIVARES ALLENDE, JOCELYN CAROLINA"
+  },
+  {
+    "rut": "20.007.072-0",
+    "nombre": "OLIVARES CANGANA, GENESIS PRISCILLA"
+  },
+  {
+    "rut": "10.708.600-5",
+    "nombre": "OLIVARES RIVERA, GABRIEL ALFONSO"
+  },
+  {
+    "rut": "16.868.139-9",
+    "nombre": "OLIVARES SARAPURA, JUANA ALEJANDRA"
+  },
+  {
+    "rut": "11.991.506-6",
+    "nombre": "OLMOS VALENCIA, JOSE TOMAS"
+  },
+  {
+    "rut": "17.197.431-3",
+    "nombre": "OÑATE ARRIAGADA, MIGUEL ANGEL"
+  },
+  {
+    "rut": "12.948.135-8",
+    "nombre": "ORDENES ZELAYA, ALEXIS RODRIGO"
+  },
+  {
+    "rut": "24.778.084-K",
+    "nombre": "OROZCO RIVAS, MEIBER EDITH"
+  },
+  {
+    "rut": "11.422.172-4",
+    "nombre": "ORREGO NUÑEZ, CLAUDIO ALBERTO"
+  },
+  {
+    "rut": "14.092.475-K",
+    "nombre": "ORTEGA BUSTAMANTE, ISRAEL AGUSTIN"
+  },
+  {
+    "rut": "18.790.464-1",
+    "nombre": "ORTEGA CORTES, ANA ALICIA"
+  },
+  {
+    "rut": "21.153.218-1",
+    "nombre": "ORTEGA MORALES, IGNACIO ALFREDO"
+  },
+  {
+    "rut": "18.787.719-9",
+    "nombre": "ORTEGA SAN JUAN, ANDRES NICOLAS"
+  },
+  {
+    "rut": "18.507.600-8",
+    "nombre": "ORTIZ BUGUEÑO, FRANCIA BELEN"
+  },
+  {
+    "rut": "17.712.868-6",
+    "nombre": "ORTIZ PASTEN, ALEJANDRA MABEL"
+  },
+  {
+    "rut": "18.943.799-4",
+    "nombre": "ORTIZ VEGA, JAVIERA DENISSE"
+  },
+  {
+    "rut": "19.951.063-0",
+    "nombre": "OSORIO TORRES, CAROL PATRICIA"
+  },
+  {
+    "rut": "27.404.441-1",
+    "nombre": "OVIEDO SANDON, SEBASTIAN"
+  },
+  {
+    "rut": "16.320.816-4",
+    "nombre": "OYANADEL PULGAR, DAGOBERTO"
+  },
+  {
+    "rut": "20.600.207-7",
+    "nombre": "OYARCE RODRIGUEZ, LORENA ANDREA"
+  },
+  {
+    "rut": "25.268.356-9",
+    "nombre": "PACASA BAUTISTA, PATRICIA LAURA"
+  },
+  {
+    "rut": "25.373.979-7",
+    "nombre": "PACHON GONZALEZ, SERGIO"
+  },
+  {
+    "rut": "15.001.118-3",
+    "nombre": "PACO FLORES, EUGENIA VALERIA"
+  },
+  {
+    "rut": "21.069.079-4",
+    "nombre": "PACO VADILLO, CLAUDIA ROSANA"
+  },
+  {
+    "rut": "18.311.732-7",
+    "nombre": "PALZA GONZALEZ, GENESIS ESTEFANIA"
+  },
+  {
+    "rut": "26.099.339-9",
+    "nombre": "PAMPLONA ., ALEXANDER"
+  },
+  {
+    "rut": "25.275.312-5",
+    "nombre": "PAREDES VELASQUEZ, GINA LIZETH"
+  },
+  {
+    "rut": "12.807.484-8",
+    "nombre": "PASTEN ALFARO, EDITH HORTENSIA"
+  },
+  {
+    "rut": "11.383.163-4",
+    "nombre": "PASTEN CORTES, NELLY REBECA"
+  },
+  {
+    "rut": "21.261.552-8",
+    "nombre": "PASTÉN MERCADO, TAMARA FERNANDA"
+  },
+  {
+    "rut": "26.588.007-K",
+    "nombre": "PAYAN DIAZ, YURI YARITZA"
+  },
+  {
+    "rut": "21.855.708-2",
+    "nombre": "PAZ OSCO, ELOY REYNALDO"
+  },
+  {
+    "rut": "20.723.046-4",
+    "nombre": "PEÑA ARAOS, NATALY FRANCHESCA"
+  },
+  {
+    "rut": "10.448.418-2",
+    "nombre": "PEÑA RIVAS, MARIO ALEJANDRO"
+  },
+  {
+    "rut": "16.595.940-K",
+    "nombre": "PEREZ COLIHUINCA, JONATHAN YORDANO"
+  },
+  {
+    "rut": "17.713.056-7",
+    "nombre": "PEREZ LOPEZ, JUAN CARLOS"
+  },
+  {
+    "rut": "18.352.941-2",
+    "nombre": "PEREZ PÉREZ, RICARDO ALFREDO"
+  },
+  {
+    "rut": "24.318.419-3",
+    "nombre": "PEREZ PEREZ, RONY STIVEN"
+  },
+  {
+    "rut": "18.712.714-9",
+    "nombre": "PEREZ SIDGMANN, DANIELA ALEJANDRA"
+  },
+  {
+    "rut": "09.780.591-1",
+    "nombre": "PEREZ URETA, GUSTAVO RAMON"
+  },
+  {
+    "rut": "14.246.369-5",
+    "nombre": "PEREZ VEGA, PATRICIO ERICH"
+  },
+  {
+    "rut": "13.261.932-8",
+    "nombre": "PERGUI VENEGAS, YOVANA ALEJANDRA"
+  },
+  {
+    "rut": "17.465.232-5",
+    "nombre": "PESSINI HIDALGO, MACARENA ROMINA"
+  },
+  {
+    "rut": "17.557.655-K",
+    "nombre": "PEZO CHÁVEZ, FRANCHESKA MIREYA DEL CARMEN"
+  },
+  {
+    "rut": "17.711.825-7",
+    "nombre": "PINILLA PINILLA, JUAN RICARDO"
+  },
+  {
+    "rut": "18.985.954-6",
+    "nombre": "PINO CORTES, JAVIERA LORETO"
+  },
+  {
+    "rut": "15.660.116-0",
+    "nombre": "PINO MELLADO, IGNACIO ANDRES"
+  },
+  {
+    "rut": "18.942.983-5",
+    "nombre": "PIÑONES MUÑOZ, MONTSERRAT AYLIN"
+  },
+  {
+    "rut": "18.012.033-5",
+    "nombre": "PIZARRO ARRIAGADA, CYNTHIA PALOMA VALESKA"
+  },
+  {
+    "rut": "15.802.095-5",
+    "nombre": "PIZARRO MARIN, JOCELYN ROMINA"
+  },
+  {
+    "rut": "17.038.853-4",
+    "nombre": "PIZARRO MERCADO, JAVIER EDUARDO"
+  },
+  {
+    "rut": "17.712.424-9",
+    "nombre": "PIZARRO SEGOVIA, NICOLAS ALFONSO"
+  },
+  {
+    "rut": "20.544.115-8",
+    "nombre": "PLAZA ESPINOZA, FRANCISCA ESTHEFFANIA ALEXHANDRA"
+  },
+  {
+    "rut": "12.434.814-5",
+    "nombre": "PLAZA PAEZ, FABIOLA DEL CARMEN"
+  },
+  {
+    "rut": "22.178.066-3",
+    "nombre": "PORTAL MAMANI, EVELYN DEL CARMEN FRIDA"
+  },
+  {
+    "rut": "26.557.284-7",
+    "nombre": "PRECIADO MONTANO, AURIA ANDREA"
+  },
+  {
+    "rut": "18.232.278-4",
+    "nombre": "PRIETO MEDINA, JUAN SEBASTIAN"
+  },
+  {
+    "rut": "25.033.371-4",
+    "nombre": "QUIÑONES CORTES, ARLI MARINA"
+  },
+  {
+    "rut": "24.364.788-6",
+    "nombre": "QUIÑONEZ CHATA, DONY WILLIAMS"
+  },
+  {
+    "rut": "16.316.425-6",
+    "nombre": "QUIROZ ANTILEF, ROXANA DEL CARMEN"
+  },
+  {
+    "rut": "25.985.056-8",
+    "nombre": "QUISPE ARUQUIPA, SILVIA"
+  },
+  {
+    "rut": "25.186.919-7",
+    "nombre": "QUISPE FRANCO, BERTHA"
+  },
+  {
+    "rut": "16.326.336-K",
+    "nombre": "RAMIREZ BARAHONA, JOAQUIN ALEJANDRO"
+  },
+  {
+    "rut": "11.422.131-7",
+    "nombre": "RAMIREZ CUBILLOS, KIMENA ESTER"
+  },
+  {
+    "rut": "19.666.351-7",
+    "nombre": "RAMIREZ RAMOS, ALFONSO DANIEL"
+  },
+  {
+    "rut": "18.353.433-5",
+    "nombre": "RAMIREZ VEGA, DANIELA FERNANDA"
+  },
+  {
+    "rut": "19.710.538-0",
+    "nombre": "RAMOS AGUILERA, CHRISTOPHER LEANDRO"
+  },
+  {
+    "rut": "12.717.621-3",
+    "nombre": "RAMOS CANIVILO, ARMANDO ALONSO"
+  },
+  {
+    "rut": "18.899.452-0",
+    "nombre": "RAMOS OLIVARES, DIEGO IGNACIO"
+  },
+  {
+    "rut": "11.513.026-9",
+    "nombre": "RAMOS OLIVARES, NANCY CAROLINA"
+  },
+  {
+    "rut": "10.935.358-2",
+    "nombre": "RAMOS RIOS, MARIA ELENA"
+  },
+  {
+    "rut": "19.048.375-4",
+    "nombre": "REYES AGUIRRE, FELIPE ARMANDO"
+  },
+  {
+    "rut": "13.414.505-6",
+    "nombre": "REYES BERNUY, ISABEL CAROLINA"
+  },
+  {
+    "rut": "26.709.896-4",
+    "nombre": "REYES VALENCIA, CARLOS ALBERTO"
+  },
+  {
+    "rut": "25.913.024-7",
+    "nombre": "RIAÑO JIMENEZ, RODOLFO"
+  },
+  {
+    "rut": "25.561.254-9",
+    "nombre": "RIAÑOS PORRAS, JENNY LILIANA"
+  },
+  {
+    "rut": "15.458.999-6",
+    "nombre": "RIOS IBARRA, KATHERINE DE LAS MERCEDES"
+  },
+  {
+    "rut": "27.376.423-2",
+    "nombre": "RIVAS AVENDAÑO, JOSE CALISTRO"
+  },
+  {
+    "rut": "17.594.454-0",
+    "nombre": "RIVERA AGUILERA, JAVIER OCTAVIO"
+  },
+  {
+    "rut": "20.232.687-0",
+    "nombre": "RIVERA ARANIBAR, DANIA MABEL"
+  },
+  {
+    "rut": "17.368.639-0",
+    "nombre": "RIVERA ARAYA, GERARDO ANDRES"
+  },
+  {
+    "rut": "08.789.143-7",
+    "nombre": "RIVERA CARMONA, LEANDRO OCIEL"
+  },
+  {
+    "rut": "17.191.282-2",
+    "nombre": "RIVERA CONTRERAS, YISELLA DEL CARMEN"
+  },
+  {
+    "rut": "12.771.745-1",
+    "nombre": "RIVERA RIVERA, RICARDO ANDRES"
+  },
+  {
+    "rut": "14.221.577-2",
+    "nombre": "RIVERA RODRIGUEZ, JUAN GUILLERMO"
+  },
+  {
+    "rut": "17.434.461-2",
+    "nombre": "RIVERA ROJAS, HELEN LISETTE"
+  },
+  {
+    "rut": "17.430.262-6",
+    "nombre": "RIVERA SOTO, ESTEFANI PATRICIA"
+  },
+  {
+    "rut": "24.549.537-4",
+    "nombre": "RIVERO LOBO, JOANI ALBERTO"
+  },
+  {
+    "rut": "22.998.100-5",
+    "nombre": "RIVERO REYES, SARA JUDITH"
+  },
+  {
+    "rut": "14.903.580-K",
+    "nombre": "RIVEROS RAMIREZ, PIA MACARENA"
+  },
+  {
+    "rut": "16.995.669-3",
+    "nombre": "ROBLEDO ARAYA, FRANK GIOVANI"
+  },
+  {
+    "rut": "11.382.818-8",
+    "nombre": "ROBLES ARAYA, LUCIA PILAR"
+  },
+  {
+    "rut": "13.530.570-7",
+    "nombre": "ROBLES QUISPE, MICHAEL ANGELO"
+  },
+  {
+    "rut": "21.514.333-3",
+    "nombre": "ROBLES SALINAS, BENJAMIN ANDRES"
+  },
+  {
+    "rut": "24.533.417-6",
+    "nombre": "ROBLES SOLIZ, CRISTIAN ALEXANDER"
+  },
+  {
+    "rut": "26.354.351-3",
+    "nombre": "ROBLES SOLIZ, LUIS GILLMAR"
+  },
+  {
+    "rut": "18.869.269-9",
+    "nombre": "ROCCO TAPIA, RENATO ENZO ALEXANDER"
+  },
+  {
+    "rut": "16.881.080-6",
+    "nombre": "RODRIGUEZ AHUMADA, ANGELO ENRIQUE"
+  },
+  {
+    "rut": "15.126.413-1",
+    "nombre": "RODRIGUEZ CARTAGENA, SEBASTIAN ANDRES"
+  },
+  {
+    "rut": "15.574.447-2",
+    "nombre": "RODRIGUEZ GALLEGUILLOS, ROCIO KARIME"
+  },
+  {
+    "rut": "10.247.014-1",
+    "nombre": "RODRIGUEZ OSORIO, RENE"
+  },
+  {
+    "rut": "18.003.339-4",
+    "nombre": "RODRIGUEZ RIVERA, JOSE LUIS"
+  },
+  {
+    "rut": "17.847.125-2",
+    "nombre": "ROJAS ARAYA, VANESSA ESMERALDA"
+  },
+  {
+    "rut": "25.189.417-5",
+    "nombre": "ROJAS BOCANEGRA, ELLEN JOHANA"
+  },
+  {
+    "rut": "18.012.581-7",
+    "nombre": "ROJAS CASTILLO, CATALINA ANDREA"
+  },
+  {
+    "rut": "14.104.688-8",
+    "nombre": "ROJAS DIAZ, CAROLINA DEL CARMEN"
+  },
+  {
+    "rut": "19.922.690-8",
+    "nombre": "ROJAS DURAN, VALENTINA ROSARIO"
+  },
+  {
+    "rut": "16.527.457-1",
+    "nombre": "ROJAS GARROTE, EDUARDO RODOLFO"
+  },
+  {
+    "rut": "10.869.722-9",
+    "nombre": "ROJAS GUTIERREZ, WILSON ALEXANDER"
+  },
+  {
+    "rut": "14.296.503-8",
+    "nombre": "ROJAS MALEBRAN, JORGE ANTONIO"
+  },
+  {
+    "rut": "19.770.326-1",
+    "nombre": "ROJAS MILLONES, MARCELA DE LOURDES"
+  },
+  {
+    "rut": "12.815.180-K",
+    "nombre": "ROJAS MONTALBAN, CLAUDIO ANTONIO"
+  },
+  {
+    "rut": "18.984.966-4",
+    "nombre": "ROJAS MUÑOZ, JOSE MIGUEL"
+  },
+  {
+    "rut": "11.939.984-K",
+    "nombre": "ROJAS PALACIOS, MARIA ISABEL"
+  },
+  {
+    "rut": "13.217.349-4",
+    "nombre": "ROJAS PATIÑO, DAYAN PASTORIZA"
+  },
+  {
+    "rut": "19.453.639-9",
+    "nombre": "ROJAS PERALTA, MARA GISEL"
+  },
+  {
+    "rut": "17.364.528-7",
+    "nombre": "ROJAS ROJAS, NIDIA FLOR"
+  },
+  {
+    "rut": "10.508.424-2",
+    "nombre": "ROJAS ROMAN, ELVIS ALEXANDER"
+  },
+  {
+    "rut": "13.976.346-7",
+    "nombre": "ROJAS TELLO, PAULINA ROSARIO"
+  },
+  {
+    "rut": "15.574.782-K",
+    "nombre": "ROJO ROJAS, VALENTINA DENISS"
+  },
+  {
+    "rut": "25.935.830-2",
+    "nombre": "ROMERO SOLIS, YUBERNI"
+  },
+  {
+    "rut": "19.496.254-1",
+    "nombre": "RONCALES MORALES, NADIA MARGARITA"
+  },
+  {
+    "rut": "25.225.416-1",
+    "nombre": "ROSADO VACA, KATHERINE"
+  },
+  {
+    "rut": "24.316.629-2",
+    "nombre": "ROSERO GALLEGO, JACKELINE"
+  },
+  {
+    "rut": "19.726.948-0",
+    "nombre": "RUBIO SAAVEDRA, MELANIE BEATRIZ"
+  },
+  {
+    "rut": "23.990.388-6",
+    "nombre": "RUEDA CAUCOTA, ISABEL"
+  },
+  {
+    "rut": "19.939.713-3",
+    "nombre": "RUIZ BRIONES, DIEGO IGNACIO"
+  },
+  {
+    "rut": "16.772.388-8",
+    "nombre": "RUIZ COPA, CRISTIAN GONZALO"
+  },
+  {
+    "rut": "17.971.326-8",
+    "nombre": "SANCHEZ MUNOZ, FABIAN ALFREDO"
+  },
+  {
+    "rut": "24.705.205-4",
+    "nombre": "SANCHEZ SOLIZ, SAIDA"
+  },
+  {
+    "rut": "27.663.622-7",
+    "nombre": "SANCHEZ TARAZONA, MARIA CAROLINA"
+  },
+  {
+    "rut": "12.350.534-4",
+    "nombre": "SANTANA PIZARRO, DANITZA"
+  },
+  {
+    "rut": "19.871.693-6",
+    "nombre": "SANTANDER CASTILLO, CONSTANZA DE LOURDES"
+  },
+  {
+    "rut": "19.356.192-6",
+    "nombre": "SANTANDER CASTILLO, MAX FERNANDO"
+  },
+  {
+    "rut": "21.227.802-5",
+    "nombre": "SANTANDER CASTILLO, ROMINA GRASIELA"
+  },
+  {
+    "rut": "21.307.757-0",
+    "nombre": "SANTANDER TOLEDO, JAVIERA ADRIANA"
+  },
+  {
+    "rut": "17.885.897-1",
+    "nombre": "SANTIAGO CARRION, ELENA DEL CARMEN"
+  },
+  {
+    "rut": "17.330.526-5",
+    "nombre": "SANTIBAÑEZ BORDONES, GUSTAVO ADOLFO"
+  },
+  {
+    "rut": "26.892.442-6",
+    "nombre": "SANTOS ECHAVARRIA, YULISA ALTAGRACIA"
+  },
+  {
+    "rut": "13.872.102-7",
+    "nombre": "SAPIAIN SAPIAIN, MARCO ANTONIO"
+  },
+  {
+    "rut": "13.637.519-9",
+    "nombre": "SARRIA MONTERO, XIOMARA LINDSAY"
+  },
+  {
+    "rut": "17.013.382-K",
+    "nombre": "SARRIA ZAVALA, BORIS ALEJANDRO"
+  },
+  {
+    "rut": "13.556.725-6",
+    "nombre": "SARZOZA PILLANCAR, MARIO ENRIQUE"
+  },
+  {
+    "rut": "19.694.112-6",
+    "nombre": "SELFENE HERRERA, JORGE ALEJANDRO"
+  },
+  {
+    "rut": "21.269.614-5",
+    "nombre": "SEPULVEDA CORREA, SEBASTIAN ANDRES"
+  },
+  {
+    "rut": "12.452.018-5",
+    "nombre": "SEPULVEDA MARIN, NESTOR LUIS"
+  },
+  {
+    "rut": "17.920.626-9",
+    "nombre": "SEPULVEDA ORTEGA, JOSE MANUEL"
+  },
+  {
+    "rut": "18.232.746-8",
+    "nombre": "SEPULVEDA TORO, CLAUDIA ANDREA"
+  },
+  {
+    "rut": "19.190.541-5",
+    "nombre": "SEPULVEDA VALDES, LUIS ALBERTO"
+  },
+  {
+    "rut": "19.190.540-7",
+    "nombre": "SEPULVEDA VALDES, MIGUEL ANGEL"
+  },
+  {
+    "rut": "20.249.521-4",
+    "nombre": "SOLA APALA, DAVID MARCELO CRISTIAN"
+  },
+  {
+    "rut": "19.737.811-5",
+    "nombre": "SOLA APALA, NOEMI ALEJANDRA"
+  },
+  {
+    "rut": "20.600.936-5",
+    "nombre": "SOLAR ARAYA, JAVIERA IGNACIA"
+  },
+  {
+    "rut": "12.397.636-3",
+    "nombre": "SOLIS SOLIS, EDUARDO FABIAN"
+  },
+  {
+    "rut": "15.015.533-9",
+    "nombre": "SORIA PATIÑO, MARIA CRISTINA"
+  },
+  {
+    "rut": "24.014.762-9",
+    "nombre": "SOTO GARCIA, YEISON DANILO"
+  },
+  {
+    "rut": "17.080.354-K",
+    "nombre": "SOTO GOMEZ, MARIA PILAR"
+  },
+  {
+    "rut": "20.300.468-0",
+    "nombre": "SOTO VASQUEZ, CONSTANZA DAYAN"
+  },
+  {
+    "rut": "22.718.310-1",
+    "nombre": "SULLCA GALLEGOS, ROSA OLIVIA"
+  },
+  {
+    "rut": "21.283.176-K",
+    "nombre": "TAPIA CONTRERAS, ANAIS LEONOR"
+  },
+  {
+    "rut": "21.738.924-0",
+    "nombre": "TAPIA LEIVA, MATEO ANGEL"
+  },
+  {
+    "rut": "10.166.194-6",
+    "nombre": "TAPIA VILLARROEL, JORGE ALAMIRO"
+  },
+  {
+    "rut": "21.097.334-6",
+    "nombre": "TAPIA ZEGARRA, LAURA ANGELINA"
+  },
+  {
+    "rut": "25.062.996-6",
+    "nombre": "TEJADA LUCUARA, MELQUISEDEC"
+  },
+  {
+    "rut": "08.443.656-9",
+    "nombre": "TELLO ACEVEDO, INGRID JOANNA"
+  },
+  {
+    "rut": "18.370.308-0",
+    "nombre": "TELLO GOMEZ, YESSENIA MACARENA"
+  },
+  {
+    "rut": "11.614.709-2",
+    "nombre": "TELLO MENDOZA, JUANA DEL CARMEN"
+  },
+  {
+    "rut": "24.882.466-2",
+    "nombre": "TENORIO MARTINEZ, JENNY"
+  },
+  {
+    "rut": "19.349.842-6",
+    "nombre": "TIRADO TOLEDO, MARCO NICOLAS"
+  },
+  {
+    "rut": "19.493.891-8",
+    "nombre": "TOLEDO ALVAREZ, MONSERRAT ALEJANDRA"
+  },
+  {
+    "rut": "11.383.913-9",
+    "nombre": "TOLEDO PUELLES, ROBERTO ANTONIO"
+  },
+  {
+    "rut": "09.052.691-K",
+    "nombre": "TORREALBA AGUILERA, FERNANDO RICARDO"
+  },
+  {
+    "rut": "17.122.429-2",
+    "nombre": "TORREBLANCA LOPEZ, RICARDO ANDRES"
+  },
+  {
+    "rut": "18.177.684-6",
+    "nombre": "TORRES CONTRERAS, JOSE MANUEL"
+  },
+  {
+    "rut": "19.792.477-2",
+    "nombre": "TORRES MAYORGA, FRANCISCA BELEN"
+  },
+  {
+    "rut": "24.344.533-7",
+    "nombre": "TORRES TICONA, ADRIANA DELIA"
+  },
+  {
+    "rut": "19.445.201-2",
+    "nombre": "TRIGO AGUIRRE, THAMARA GUIANELLA"
+  },
+  {
+    "rut": "22.057.591-8",
+    "nombre": "USCAMAYTA MORALES, WUILLBER"
+  },
+  {
+    "rut": "19.868.714-6",
+    "nombre": "VALDEBENITO ALVAREZ, ROSA MACARENA"
+  },
+  {
+    "rut": "13.536.639-0",
+    "nombre": "VALDES ARAYA, CLAUDIO ABEL"
+  },
+  {
+    "rut": "15.318.963-3",
+    "nombre": "VALDES ARGUELLO, PEDRO PABLO"
+  },
+  {
+    "rut": "13.214.526-1",
+    "nombre": "VALDIVIA CABELLO, LORNA MARIA"
+  },
+  {
+    "rut": "11.380.439-4",
+    "nombre": "VALENCIA GONZALEZ, LUCY MARGOTT"
+  },
+  {
+    "rut": "20.906.718-8",
+    "nombre": "VALENZUELA JAIME, CAMILA ANTONIA MITLLARAY"
+  },
+  {
+    "rut": "12.047.714-5",
+    "nombre": "VALERO CUELLAR, SANDRA VALERIA"
+  },
+  {
+    "rut": "24.847.998-1",
+    "nombre": "VALLE VEGA, FLOR DE MARIA"
+  },
+  {
+    "rut": "26.657.829-6",
+    "nombre": "VANGINE ., JUNIOR"
+  },
+  {
+    "rut": "26.436.612-7",
+    "nombre": "VASQUEZ GIRALDO, YANETH"
+  },
+  {
+    "rut": "23.798.389-0",
+    "nombre": "VASQUEZ MELCHOR, JUBER SMITH"
+  },
+  {
+    "rut": "16.773.196-1",
+    "nombre": "VASQUEZ ROJAS, SEBASTIAN ALEJANDRO"
+  },
+  {
+    "rut": "20.458.091-K",
+    "nombre": "VEGA ALVAREZ, AYLIN SKARLET"
+  },
+  {
+    "rut": "12.395.161-1",
+    "nombre": "VEGA CORTES, VICTORIA JULIETA"
+  },
+  {
+    "rut": "17.528.287-4",
+    "nombre": "VEGA MACHUCA, CRISTINA VERONICA"
+  },
+  {
+    "rut": "18.506.821-8",
+    "nombre": "VEGA RIOS, PEDRO SEBASTIAN TERCERO"
+  },
+  {
+    "rut": "13.976.501-K",
+    "nombre": "VELASQUEZ ADAROS, YASNA DE LAS MERCEDES"
+  },
+  {
+    "rut": "19.098.840-6",
+    "nombre": "VELASQUEZ ROA, DAYAN ESTEFANIA"
+  },
+  {
+    "rut": "13.748.356-4",
+    "nombre": "VELEZ TAPIA, MARCELO ANDRES"
+  },
+  {
+    "rut": "12.608.378-5",
+    "nombre": "VELIZ HUANCA, RAFAEL CRISTIAN"
+  },
+  {
+    "rut": "14.441.168-4",
+    "nombre": "VERA CARRASCO, MANUEL ANGELO"
+  },
+  {
+    "rut": "19.710.362-0",
+    "nombre": "VERA DULCIEN, FRANCIS JOAO"
+  },
+  {
+    "rut": "18.689.330-1",
+    "nombre": "VERGARA ACUÑA, BRANDON ALEXIS"
+  },
+  {
+    "rut": "17.252.436-2",
+    "nombre": "VERGARA CID, YESSENIA BEATRIZ"
+  },
+  {
+    "rut": "16.821.264-K",
+    "nombre": "VERGARA NUÑEZ, LUIS ALBERTO"
+  },
+  {
+    "rut": "17.439.933-6",
+    "nombre": "VERGARA VILCHES, DIEGO IGNACIO"
+  },
+  {
+    "rut": "17.934.297-9",
+    "nombre": "VERGARA VILLALOBOS, GONZALO ANDRES"
+  },
+  {
+    "rut": "25.538.382-5",
+    "nombre": "VIDAL ARANDA, ARACELY"
+  },
+  {
+    "rut": "25.619.554-2",
+    "nombre": "VIDAL DOMINGUEZ, LUISA CRISTINA"
+  },
+  {
+    "rut": "20.384.073-K",
+    "nombre": "VIERA PIZARRO, PAMELA ALEJANDRA"
+  },
+  {
+    "rut": "18.111.098-8",
+    "nombre": "VILLAGRAN ROJAS, LILIAN SOLEDAD"
+  },
+  {
+    "rut": "20.866.532-4",
+    "nombre": "VILLANUEVA PIZARRO, CONSTANZA MARION"
+  },
+  {
+    "rut": "26.432.615-K",
+    "nombre": "VILLARROEL BONILLO, MAIKOLT GUILLERMO"
+  },
+  {
+    "rut": "25.672.935-0",
+    "nombre": "VILLARROEL GONZALES, VIVIANA"
+  },
+  {
+    "rut": "16.306.021-3",
+    "nombre": "VILLARROEL VILLARROEL, YENIFFER MARIA"
+  },
+  {
+    "rut": "22.585.373-8",
+    "nombre": "VILLAVICENCIO COAGUILA, MOISES"
+  },
+  {
+    "rut": "24.052.666-2",
+    "nombre": "VILLEGAS ., SERGIO LUIS"
+  },
+  {
+    "rut": "21.992.349-K",
+    "nombre": "VIZCARDO TICONA, JACKELINE CARLA"
+  },
+  {
+    "rut": "18.905.891-8",
+    "nombre": "YAÑEZ GUTIERREZ, CARLOS ANDRES"
+  },
+  {
+    "rut": "24.713.083-7",
+    "nombre": "YAÑEZ MORALES, MARCO AMERICO"
+  },
+  {
+    "rut": "15.514.038-0",
+    "nombre": "ZAMBRA ALARCÓN, ALFREDO ANTONIO"
+  },
+  {
+    "rut": "15.045.257-0",
+    "nombre": "ZARRICUETA ROJO, ERIKA ALICIA"
+  },
+  {
+    "rut": "20.547.634-2",
+    "nombre": "ZAVALA GODOY, CAMILA FERNANDA"
+  },
+  {
+    "rut": "16.704.939-7",
+    "nombre": "ZEPEDA CHIANG, LUIS ALEJANDRO"
+  },
+  {
+    "rut": "21.966.597-0",
+    "nombre": "ZEPEDA VERGARA, DAISY ANGELIN"
+  },
+  {
+    "rut": "13.008.737-K",
+    "nombre": "ZUÑIGA GODOY, MARCELA ALEJANDRA"
+  }
+]

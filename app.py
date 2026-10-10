@@ -84,7 +84,10 @@ def signature(value):
     except (UnidentifiedImageError, OSError, base64.binascii.Error): raise ValueError('La imagen de firma no es válida.')
 
 @app.get('/')
-def index(): return render_template('index.html')
+def index():
+    document = Document(ROOT / 'plantillas/censura.docx')
+    paragraphs = [p.text for p in document.paragraphs if p.text.strip()]
+    return render_template('index.html', document_paragraphs=paragraphs)
 
 @app.post('/registrar')
 def register():

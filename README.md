@@ -1,7 +1,7 @@
 # Registro de socios y firmas para Render
 
 Aplicación Flask con firma táctil y Word basado en plantillas/censura.docx.
-La página pública permite registrar; la administración protegida permite buscar,
+La página pública / permite leer la solicitud completa y registrar SIN CLAVE; la administración protegida permite buscar,
 ver firmas, descargar el Word completo y eliminar individualmente con otra clave.
 El RUT se valida por módulo 11, se guarda como xx.xxx.xxx-x y no se admite duplicado.
 RUT de siete dígitos se completa con cero inicial para conservar el mismo formato.
@@ -70,3 +70,16 @@ plantillas/censura.docx: Word original. Puedes sustituirlo manteniendo la primer
 Verificado con pruebas de registro, duplicados, RUT, firma vacía, acceso privado,
 CSRF, eliminación con clave y exportación Word. Antes de recopilar datos reales,
 realiza una prueba completa en tu servicio Render y verifica tu política de respaldos.
+
+## Acceso público y claves
+
+Comparte la URL principal (https://tu-servicio.onrender.com/), sin /admin.
+No pide clave para ingresar, leer o firmar. /admin sí exige ADMIN_PASSWORD,
+porque muestra los datos personales y habilita la descarga. Para eliminar también
+se exige DELETE_PASSWORD. DATABASE_URL es la conexión privada del servidor,
+no una clave que deba escribir quien firma. SECRET_KEY protege las sesiones;
+tampoco se solicita a los visitantes. No retires estas variables de Render.
+
+Actualización: el texto mostrado se lee directamente de la misma plantilla Word
+que se descarga. Sustituir esa plantilla cambia el texto visible para nuevas firmas.
+No cambies el contenido de la solicitud mientras recolectas firmas para ella.

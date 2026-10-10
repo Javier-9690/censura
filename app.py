@@ -117,7 +117,9 @@ def signature(value):
 def index():
     document = Document(ROOT / 'plantillas/censura.docx')
     paragraphs = [p.text for p in document.paragraphs if p.text.strip()]
-    return render_template('index.html', document_paragraphs=paragraphs)
+    with engine.connect() as conn:
+        authorized_members = conn.execute(select(members.c.nombre, members.c.rut).order_by(members.c.nombre, members.c.rut)).mappings().all()
+    return render_template('index.html', document_paragraphs=paragraphs, authorized_members=authorized_members)
 
 @app.post('/registrar')
 def register():

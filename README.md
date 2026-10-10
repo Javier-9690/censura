@@ -115,3 +115,11 @@ No se necesita modificar las variables de entorno ni Start Command.
 
 La nómina incluida tiene datos personales: mantén privado el repositorio de GitHub.
 El PDF fuente no se incluye en el paquete. No se modificó su texto ni nombres.
+
+## Selección de nombre y RUT
+
+La página pública presenta listas desplegables con los nombres y RUT de la nómina.
+Al elegir un nombre selecciona su RUT; al elegir el RUT selecciona su nombre.
+La selección se vuelve a validar contra la base en el servidor al guardar.
+Por esta función, los nombres y RUT de la nómina son visibles a los visitantes.
+Las firmas y el reporte siguen protegidos por el acceso de administrador.
